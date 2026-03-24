@@ -5,9 +5,7 @@ public class Main {
         System.out.println("Hello Automation Rahul sikayaega");
         
         
-        int = int1 new 123;
         
-        make new chnages 
         
 }
 }
